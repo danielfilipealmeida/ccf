@@ -1,0 +1,21 @@
+Bootstrap layout breakpoints
+@screen-xs:                  480px;
+@screen-sm:                  768px;
+@screen-md:                  992px;
+@screen-lg:                  1200px;
+
+background images sizes:
+2000
+1200
+768
+480
+
+Campos das sessões
+
+titulo
+ano
+realização
+produção
+elenco
+origem
+sinopse
